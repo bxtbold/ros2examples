@@ -5,7 +5,7 @@
   <version>0.0.0</version>
   <description>The package for rclpy examples</description>
   <maintainer email="bxtbold@protonmail.com">cwsfa</maintainer>
-  <license>MIT License</license>
+  <license>MIT</license>
 
   <depend>rclpy</depend>
   <test_depend>ament_copyright</test_depend>

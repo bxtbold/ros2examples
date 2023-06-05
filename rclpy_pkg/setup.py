@@ -16,7 +16,7 @@ setup(
     author='Batbold N.',
     author_email='bxtbold@protonmail.com',
     description='The package for rclpy examples',
-    license='MIT License',
+    license='MIT',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
