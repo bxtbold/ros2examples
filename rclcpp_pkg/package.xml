@@ -5,7 +5,8 @@
   <version>0.0.0</version>
   <description>The package for rclcpp examples</description>
   <author email="bxtbold@protonmail.com">Batbold N.</author>
-  <license>MIT License</license>
+  <maintainer email="bxtbold@protonmail.com">Batbold N.</maintainer>
+  <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
   <depend>rclcpp</depend>
