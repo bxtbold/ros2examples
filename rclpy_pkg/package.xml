@@ -4,10 +4,14 @@
   <name>rclpy_pkg</name>
   <version>0.0.0</version>
   <description>The package for rclpy examples</description>
-  <maintainer email="bxtbold@protonmail.com">cwsfa</maintainer>
+  <author email="bxtbold@protonmail.com">Batbold N.</author>
+  <maintainer email="bxtbold@protonmail.com">Batbold N.</maintainer>
   <license>MIT</license>
 
   <depend>rclpy</depend>
+  <depend>std_msgs</depend>
+  <depend>example_interfaces</depend>
+  <depend>ros2launch</depend>
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
